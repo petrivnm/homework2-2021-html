@@ -1,0 +1,73 @@
+.targetmain{
+    background-color: #eeebeb ;
+}
+.targeta{
+    background: orange;
+    height: 200px;
+    width: 200px;
+    box-shadow: black 20px 20px 0px 3px;
+    text-align: center;
+}
+.targetb{
+    background-color: orange;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    box-shadow: black 20px 20px 8px 3px;
+}
+.targetc{
+    background-color: orange;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    box-shadow: black 20px 20px 10px 3px;
+}
+.targetd{
+    background-color: orange;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    box-shadow: silver 20px 20px 10px 3px;
+}
+.targete{
+    background-color: orange;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    box-shadow: black 20px 20px 6px 3px;
+    border-radius: 3%;
+}
+.targetf{
+    background-color: orange;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    box-shadow: silver 20px 20px 10px 3px;
+    border-radius: 3%;
+}
+h2{
+background: red;
+    padding: 0 0 0 600px;
+}
+.target1{
+    background: silver;
+    height: 50px;
+    padding: 20px 0 20px 10px;
+}
+
+.target2{
+    background: cornflowerblue;
+    height: 50px;
+    padding: 50px 0;
+}
+.target3{
+    background: limegreen;
+    width: 200px;
+    height: 200px;
+}
+.target4{
+    background: blueviolet;
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+}
